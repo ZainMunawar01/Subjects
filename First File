@@ -3,6 +3,27 @@ using namespace std;
 Int main () {
 cout<<"Muhammad Zain"<<endl;
 cout<<"Roll Number: 2023-BT-SE-05"<<endl;
+
+
+cout<<"1st Semester Subjects"<<endl;
+cout<<" Applied Physics"<<endl;
+cout<<" Applied Calculus"<<endl;
+cout<<" Functional English"<<endl;
+cout<<" Islamiyat"<<endl;
+cout<<" Information Technology Skills"<<endl;
+
+cout<<"2nd Semester Subjects"<<endl;
+cout<<"1. SDLC"<<endl;
+cout<<"2. SCMT"<<endl;
+cout<<"3. OOPs<<endl;
+cout<<"4. Discreate Structures<<endl;
+cout<<"5. Probaility and Statistics"<<endl;
+cout<<"6. Ideology and Constitution"<<endl;
+
+
+
+
+
 cout<<"FSc Subjects: "<<endl;
 cout<<"1. English"<<endl;
 cout<<"2. Urdu"<<endl;
@@ -11,5 +32,6 @@ cout<<"4. Biology"<<endl;
 cout<<"5. Chemistry"<<endl;
 cout<<"6. Physics"<<endl;
 cout<<"7. Pakistan Studies"<<endl;
+
 return 0;
 }
