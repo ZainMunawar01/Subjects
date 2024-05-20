@@ -3,6 +3,12 @@ using namespace std;
 Int main () {
 cout<<"Muhammad Zain"<<endl;
 cout<<"Roll Number: 2023-BT-SE-05"<<endl;
+cout<<"1st Semester Subjects: "<<endl;
 
+cout<<"1. Applied Physics"<<endl;
+cout<<"2. Applied Calculus"<<endl;
+cout<<"3. Functional English"<<endl;
+cout<<"4. Islamiyat"<<endl;
+cout<<"5. Information Technology Skills"<<endl;
 return 0;
 }
